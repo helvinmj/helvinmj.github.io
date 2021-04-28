@@ -182,8 +182,6 @@ h1 {
 .column1 {
     float: left;
     width: 33.33%;
-    height: 750px;
-    overflow-y: auto;
     padding: 10px;
     background-color: #2d2d30;
     display: inline-block;
