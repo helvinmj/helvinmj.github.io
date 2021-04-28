@@ -185,7 +185,8 @@ h1 {
     height: 750px;
     overflow-y: auto;
     padding: 10px;
-    background-color: #2d2d30
+    background-color: #2d2d30;
+    display: inline-block
 }
 
 .row1:after {
