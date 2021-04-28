@@ -167,7 +167,6 @@ h1 {
     padding-top: 1px;
     margin-left: 56%;
     margin-right: 5%;
-    padding-bottom: 20%;
 }
 
 .heading, .navlink {
@@ -180,9 +179,11 @@ h1 {
 }
 
 .column1 {
+    overflow-y: scroll;
     float: left;
+    height: 750px;
     width: 33.33%;
-    padding: 10px;
+    padding: px;
     background-color: #2d2d30;
     display: inline-block;
 }
@@ -218,4 +219,8 @@ h1 {
 #subtitle {
     padding-top: 1%;
     text-align: center;
+}
+
+#topachieve {
+    padding-bottom: 2%
 }
